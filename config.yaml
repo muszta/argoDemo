@@ -1,0 +1,6 @@
+owner: muszta
+git-repo: charts
+package-path: .deploy
+token: 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
+git-base-url: https://api.github.com/
+git-upload-url: https://uploads.github.com/
